@@ -1,6 +1,6 @@
-# Ross Sea shelf DSW change project
+#  Antarctic dense shelf water overflow project
 
-Ross Sea DSW change in CESM climate change scenario.
+Diao, X., Wang, Z., Spence, P. et al. Impact of anthropogenic climate change on Antarctic dense shelf water in a high-resolution Community Earth System Model (CESM1.3). Clim Dyn 63, 363 (2025). https://doi.org/10.1007/s00382-025-07866-7.
 
 A collaborative project to work on the CESM 1.3 climate change simulations. This is a repository where we can work on analysis scripts together, discuss figures etc.
 
